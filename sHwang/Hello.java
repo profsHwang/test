@@ -2,7 +2,7 @@
 /**
  * Write a description of class Hello here.
  * 
- * @author (sHwang) 
+ * @author (황석형) 
  * @version (a version number or a date)
  */
 public class Hello
