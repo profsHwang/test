@@ -1,8 +1,8 @@
 
 /**
  * Write a description of class Hello here.
- * 
- * @author (황석형) 
+ *
+ * @author (황석형 교수) 
  * @version (a version number or a date)
  */
 public class Hello
@@ -21,9 +21,9 @@ public class Hello
 
     /**
      * An example of a method - replace this comment with your own
-     * 
+     *
      * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * @return     the sum of x and y
      */
     public int sampleMethod(int y)
     {
